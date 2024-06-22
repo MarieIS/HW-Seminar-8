@@ -11,11 +11,13 @@ void PrintReorderedRandom2DArray(int[,] arrayToPrint){
 void ReorderRandom2DArray(int[,] arrayToReorder){ 
     for (int i = 0; i < arrayToReorder.GetLength(0); i++) {
         int temp = 0;
-        for (int j = 0; j < arrayToReorder.GetLength(1)-1; j++) {
-            if (arrayToReorder[i, j] < arrayToReorder[i, j+1]){
-                temp = arrayToReorder[i, j];
-                arrayToReorder[i, j] = arrayToReorder[i, j+1];
-                arrayToReorder[i, j+1] = temp;
+        for (int j = 0; j < arrayToReorder.GetLength(1); j++) {
+            for (int k = 0; k < arrayToReorder.GetLength(1)-j-1; k++) {
+              if (arrayToReorder[i, k] < arrayToReorder[i, k+1]){
+                temp = arrayToReorder[i, k];
+                arrayToReorder[i, k] = arrayToReorder[i, k+1];
+                arrayToReorder[i, k+1] = temp;
+              }
             }
         }
     }
