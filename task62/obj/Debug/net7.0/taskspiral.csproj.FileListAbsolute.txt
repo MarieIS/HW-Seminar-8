@@ -1,0 +1,15 @@
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.csproj.AssemblyReference.cache
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.AssemblyInfoInputs.cache
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.AssemblyInfo.cs
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.csproj.CoreCompileInputs.cache
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\bin\Debug\net7.0\taskspiral.exe
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\bin\Debug\net7.0\taskspiral.deps.json
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\bin\Debug\net7.0\taskspiral.runtimeconfig.json
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\bin\Debug\net7.0\taskspiral.dll
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\bin\Debug\net7.0\taskspiral.pdb
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.dll
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\refint\taskspiral.dll
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.pdb
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\taskspiral.genruntimeconfig.cache
+C:\!Results\IT HW\C#\Homeworks\eighth\HW-Seminar-8\task62\obj\Debug\net7.0\ref\taskspiral.dll
